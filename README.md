@@ -61,3 +61,8 @@ This lab is actively being expanded to include:
 * VLAN segmentation
 * High availability concepts (N+1 design)
 * Automation and scripting (PowerShell / Python)
+## 📸 Screenshots
+
+![Proxmox Dashboard](images/Proxmox-VMs.png)
+
+![Virtual Machines](images/.png)
