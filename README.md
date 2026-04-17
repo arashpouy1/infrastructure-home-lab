@@ -1,9 +1,11 @@
 # infrastructure-home-lab
 # Infrastructure Home Lab Portfolio
 
+> Hands-on virtualisation and infrastructure lab built using Proxmox VE, demonstrating practical systems administration and network troubleshooting skills.
+
 This repository documents my hands-on infrastructure and virtualisation lab environment, built using Proxmox VE as part of my Graduate Certificate in Networking & Systems Administration.
 
-The purpose of this lab is to develop practical, real-world skills in systems administration, virtualisation, and network troubleshooting.
+This lab was built to develop and demonstrate practical, real-world skills in systems administration, virtualisation, and network troubleshooting.
 
 ---
 
