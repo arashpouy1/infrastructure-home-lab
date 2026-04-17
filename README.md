@@ -63,11 +63,11 @@ This lab is actively being expanded to include:
 * Automation and scripting (PowerShell / Python)
 ## 📸 Screenshots
 
-### Proxmox Virtual Machines
-![Proxmox VMs](images/Proxmox-VMs.jpg)
-
 ### Network Topology
 ![Network Topology](images/Proxmox%20homelab%20network%20topology%20diagram.png)
+
+### Proxmox Virtual Machines
+![Proxmox VMs](images/Proxmox-VMs.jpg)
 
 ### pfSense WAN Rules
 ![pfSense WAN](images/Pfsense%20Rules-WAN.jpg)
