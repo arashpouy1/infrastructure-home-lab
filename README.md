@@ -67,10 +67,10 @@ This lab is actively being expanded to include:
 ![Proxmox VMs](images/Proxmox-VMs.jpg)
 
 ### Network Topology
-![Network Topology](images/Proxmox homelab network topology diagram.png)
+![Network Topology](images/Proxmox%20homelab%20network%20topology%20diagram.png)
 
 ### pfSense WAN Rules
-![pfSense WAN](images/Pfsense Rules-WAN.jpg)
+![pfSense WAN](images/Pfsense%20Rules-WAN.jpg)
 
 ### pfSense OPT1 Rules
-![pfSense OPT1](images/Pfsense Rulse-OPT1.jpg)
+![pfSense OPT1](images/Pfsense%20Rulse-OPT1.jpg)
