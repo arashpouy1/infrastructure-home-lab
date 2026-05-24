@@ -1,4 +1,4 @@
-# infrastructure-home-lab
+
 # Infrastructure Home Lab Portfolio
 
 > Hands-on virtualisation and infrastructure lab built using Proxmox VE, demonstrating practical systems administration and network troubleshooting skills.
