@@ -59,7 +59,6 @@ This lab was built to develop and demonstrate practical, real-world skills in sy
 
 ---
 
-## ⚙️ Key Learning Outcomes
 
 ## ⚙️ Key Learning Outcomes
 
