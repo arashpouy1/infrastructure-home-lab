@@ -49,6 +49,8 @@ This lab was built to develop and demonstrate practical, real-world skills in sy
 * Configuration of Proxmox virtual bridges and segmented network environments
 * Troubleshooting VM connectivity, routing, and Windows firewall issues
 * Deployment of Linux and Windows Server virtual machines using VirtIO drivers
+*  Configuration and validation of Proxmox NIC traffic shaping (rate limiting)
+* Throughput and bandwidth testing using SCP and HTTP transfers
 * VM administration tasks including snapshots, cloning, and disk expansion
 * Configuration of static IP addressing and internal routing concepts
 * Expansion of Proxmox storage using additional NVMe storage devices
